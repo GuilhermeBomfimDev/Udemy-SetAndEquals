@@ -1,0 +1,15 @@
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\bin\Debug\net8.0\Udemy-Exercise-Set.exe
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\bin\Debug\net8.0\Udemy-Exercise-Set.deps.json
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\bin\Debug\net8.0\Udemy-Exercise-Set.runtimeconfig.json
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\bin\Debug\net8.0\Udemy-Exercise-Set.dll
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\bin\Debug\net8.0\Udemy-Exercise-Set.pdb
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\Udemy-Exercise-Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\Udemy-Exercise-Set.AssemblyInfoInputs.cache
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\Udemy-Exercise-Set.AssemblyInfo.cs
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\Udemy-Exercise-Set.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\Udemy-Exercise-Set.sourcelink.json
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\Udemy-Exercise-Set.dll
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\refint\Udemy-Exercise-Set.dll
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\Udemy-Exercise-Set.pdb
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\Udemy-Exercise-Set.genruntimeconfig.cache
+C:\Users\Guilherme Bomfim\Documents\Estudos programação\Curso C# - Udemy\Exercicios\Udemy-Exercise-Set\obj\Debug\net8.0\ref\Udemy-Exercise-Set.dll
